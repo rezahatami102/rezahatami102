@@ -1,46 +1,32 @@
-# Hi, I'm Reza Hatami 👋 
+# Hi there, I'm Reza Hatami 👋
 
-### 🏗️ Mining Engineer | 🚀 Marketing Veteran | 🤖 AI Explorer
+### 🎯 AI Specialist | Senior Content Strategist | ML & Software Enthusiast
 
-I am an experienced professional transitioning from 7 years in Digital Strategy into the technical side of **Artificial Intelligence**. My journey is fueled by a solid mathematical foundation from my Engineering degree and a deep-seated passion for how LLMs and Data are reshaping our world.
+I operate at the intersection of **Artificial Intelligence, Product Strategy, and Software Engineering**. Driven by relentless curiosity and a passion for technology, my ultimate goal is to solve complex problems and build intelligent, impactful systems.
+🌐 About Me
+🧬 Background: Transitioned from an engineering foundation to leading digital growth & AI content strategies, now expanding deeply into hands-on Machine Learning & Software Development.
 
----
+🏢 Current Focus: Senior AI Content Strategist & Product Consultant at Part AI Research Center.
 
-### 🛠️ My Technical Toolbox
+📰 Editorial Board Member: Dideban AI Magazine (Analyzing deep-tech AI industry trends).
 
-- **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL
-- **AI/ML:** Prompt Engineering, RAG (Retrieval-Augmented Generation), Fine-tuning LLMs
-- **Tools:** Git, Docker, VS Code, Jupyter Notebooks
-- **Foundations:** Linear Algebra, Statistics, Data Modeling
+🎓 Education: Pursuing M.Sc. in AI & Robotics | B.Sc. in Mining Engineering (Birjand University of Technology).
 
----
+📚 Continuous Learner: Read 250+ books across science, philosophy, literature, and technology.
 
-### 🔬 Featured Projects
+🛠️ Tech Stack & Skills
+Languages & Frameworks: Python, FastAPI, SQL, Fortran 90
 
-#### 📂 Face Verification API
-*A high-performance face verification REST API built with FastAPI and InsightFace for robust facial recognition and similarity comparison.*
-- **Tech:** Python, FastAPI, InsightFace (ArcFace/RetinaFace), Computer Vision (OpenCV), RESTful APIs, ONNX Runtime, NumPy
-- https://github.com/rezahatami1992/face-verification-api
+AI & ML: YOLOv8, InsightFace, Computer Vision, Ollama, Open-source LLMs
 
-#### 📂 YOLO Object Detection API
-*A FastAPI-based object detection service using YOLOv8 from Ultralytics.*
-- **Tech:** Python, FastAPI, YOLOv8 (Ultralytics), Computer Vision, REST APIs, Pillow
-- https://github.com/rezahatami1992/yolo-api
+Core Competencies: AI Product Consulting, Technical Content Strategy, Software Documentation, Growth Strategy
 
----
+📌 Featured Repositories
+🔍 Face Verification API – RESTful API built with FastAPI & InsightFace.
 
-### 📊 GitHub Stats
+🎯 YOLO Object Detection API – High-performance object detection service using Ultralytics YOLO.
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezahatami1992&show_icons=true&theme=radical)
+📫 Connect with Me
+💼 Linktree
 
----
-
-### 📫 Connect with Me
-
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/rezahatami1992/)
-- 📧 reza.hatami.1992@gmail.com
-- 🌍 Based in Iran | Seeking Global Junior/Internship Roles
-
----
-
-> "The best way to predict the future is to build it." — I am currently building mine in the AI space.
+✉️ Email Me
