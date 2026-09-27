@@ -3,7 +3,7 @@
 I started out in Mining Engineering, picked up a serious reading habit during military service (250+ books and counting), and completely redirected my path toward AI once ChatGPT launched in 2022. I'm currently pursuing a Master's in AI & Robotics Engineering while working at the **Part AI Research Center**.
 
 - 🔭 Currently working on **Vira** — a multi-model AI platform — and serving on the editorial board of **Dideban**, an AI industry publication
-- 🧠 My core focus is bridging content/marketing strategy with a genuine technical understanding of AI
+- 🧠 My core focus is bridging content/marketing strategy with a genuine technical understanding of AI — drawn equally to hands-on research/coding and to leading teams
 - 💻 Hands-on computer vision projects:
   - [Face Verification API](https://github.com/rezahatami102/face-verification-api)
   - [YOLO Object Detection API](https://github.com/rezahatami102/yolo-api)
